@@ -1,0 +1,35 @@
+menu "Power Management Configuration"
+    config PM_ENABLE
+        bool "Enable power management"
+        default y
+        help
+            Enable power management features like automatic light sleep, DFS, etc.
+
+    config PM_DFS_INIT_AUTO
+        bool "Enable dynamic frequency scaling"
+        depends on PM_ENABLE
+        default y
+        help
+            Enable automatic DFS at startup.
+
+    config PM_USE_RTC_TIMER_REF
+        bool "Use RTC timer as reference"
+        depends on PM_ENABLE
+        default y
+        help
+            Use RTC timer for power management.
+
+    config PM_POWER_DOWN_CPU_IN_LIGHT_SLEEP
+        bool "Power down CPU in light sleep"
+        depends on PM_ENABLE
+        default y
+        help
+            Power down the CPU during light sleep to save power.
+
+    config PM_POWER_DOWN_TAGMEM_IN_LIGHT_SLEEP
+        bool "Power down TAG memory in light sleep"
+        depends on PM_ENABLE
+        default y
+        help
+            Power down TAG memory during light sleep to save power.
+endmenu
