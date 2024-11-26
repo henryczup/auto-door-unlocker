@@ -19,7 +19,7 @@ All this happens in about 2 seconds. No more waiting outside!
 
 ## Demo Video
 
-https://user-images.githubusercontent.com/henryczup/auto-door-unlocker/raw/main/media/media_IMG_0.mp4
+https://github.com/user-attachments/assets/2b5eace1-b37e-4011-8a81-e94436514176
 
 ## Hardware Setup
 
