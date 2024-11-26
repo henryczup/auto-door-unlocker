@@ -19,7 +19,7 @@ All this happens in about 2 seconds. No more waiting outside!
 
 ## Demo Video
 
-https://github.com/henryczup/auto-door-unlocker/raw/main/media/IMG_0.MOV
+https://github.com/henryczup/auto-door-unlocker/raw/main/media/IMG_0.mp4
 
 ## Hardware Setup
 
@@ -37,9 +37,8 @@ https://github.com/henryczup/auto-door-unlocker/raw/main/media/IMG_0.MOV
 
 ### Project Photos
 
-![Project Overview](media/image_67210241.JPG)
-![Circuit Detail 1](<media/image_6209779%20(4).JPG>)
-![Circuit Detail 2](<media/image_6209779%20(5).JPG>)
+![Project Overview](media/image_67210241_small.jpg)
+![Circuit Detail 1](<media/image_6209779 (4)_small.jpg>)
 
 ### Wiring
 
