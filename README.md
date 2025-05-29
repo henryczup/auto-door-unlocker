@@ -22,6 +22,10 @@ I built this automatic door unlocker that lets me in whenever I call my apartmen
 
 All this happens in about 2 seconds. No more waiting outside!
 
+### Project Photos
+
+![Project Overview](media/image_67210241_small.jpg)
+![Circuit Detail 1](<media/image_6209779 (4)_small.jpg>)
 
 ## Hardware Setup
 
@@ -36,11 +40,6 @@ All this happens in about 2 seconds. No more waiting outside!
 - RJ11 Breakout Adapter
 - Micro USB
 - 5v Power Supply
-
-### Project Photos
-
-![Project Overview](media/image_67210241_small.jpg)
-![Circuit Detail 1](<media/image_6209779 (4)_small.jpg>)
 
 ### Wiring
 
