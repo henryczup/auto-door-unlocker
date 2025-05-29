@@ -1,5 +1,10 @@
 # Auto Door Unlocker - Never Get Locked Out Again!
 
+## Demo Video
+
+https://github.com/user-attachments/assets/2b5eace1-b37e-4011-8a81-e94436514176
+
+
 ## The Problem
 
 You know that feeling when you're standing outside your apartment building at 2 AM, realizing you left your keys inside? Yeah, that was me. A lot. My building has one of those intercom systems where you can call up to your apartment and someone can buzz you in.
@@ -17,9 +22,6 @@ I built this automatic door unlocker that lets me in whenever I call my apartmen
 
 All this happens in about 2 seconds. No more waiting outside!
 
-## Demo Video
-
-https://github.com/user-attachments/assets/2b5eace1-b37e-4011-8a81-e94436514176
 
 ## Hardware Setup
 
